@@ -7,5 +7,6 @@ It contains animations and other UI features to display my ability create, desig
 
 It is well organized and features a MVVM structure, along with Reusable and Customizable code.
 It is also made with SwiftUI with eveery line being written by ME!
+You can find every line I wrote in teh Shared File
 
 Feel free to look around.
