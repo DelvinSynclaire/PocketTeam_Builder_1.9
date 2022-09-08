@@ -1,4 +1,4 @@
-# PokeTeam_Builder_1.9
+# PocketTeam_Builder_1.9
 This is a app that allows you to accurately plan a and organize a team prior to playing a game of pokemon.
 It has multiple helpful filters and information.
 
